@@ -17,4 +17,14 @@ this is a minimal rag project implementation
   ```bash 
   $ conda activate mini-rag 
   ```
+# install requirements 
 
+
+```bash 
+$ pip install -r requirements.txt
+```
+# Setup the env variables
+```bash
+$ cp .env.example .env
+```
+set your env variables in the `.env` file
